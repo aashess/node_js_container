@@ -1,4 +1,4 @@
 GUIDE OF INSTALLATION OF NODE JS APPLICATION. 
 
-It was host in port 3000
+It was host in port 3000.
 
